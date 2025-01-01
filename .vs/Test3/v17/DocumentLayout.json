@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|c:\\users\\hari balaji m\\documents\\tests\\test3\\test3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|solutionrelative:test3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|c:\\users\\hari balaji m\\documents\\tests\\test3\\test3\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|solutionrelative:test3\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|c:\\users\\hari balaji m\\documents\\tests\\test3\\test3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|solutionrelative:test3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|c:\\users\\hari balaji m\\documents\\tests\\test3\\test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|solutionrelative:test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|c:\\users\\hari balaji m\\documents\\tests\\test3\\test3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|solutionrelative:test3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|c:\\users\\hari balaji m\\documents\\tests\\test3\\test3\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B170E0AC-A527-488C-9CBA-3A61AED51AD0}|Test3\\Test3.csproj|solutionrelative:test3\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Test3\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Test3\\Models\\TaskItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:01:53.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Test3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Test3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T18:17:17.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Test3\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Test3\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:59:03.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Test3\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Test3\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:58:24.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\Program.cs",
+              "RelativeDocumentMoniker": "Test3\\Program.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\Program.cs",
+              "RelativeToolTip": "Test3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:47:15.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\appsettings.json",
+              "RelativeDocumentMoniker": "Test3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test3\\Test3\\appsettings.json",
+              "RelativeToolTip": "Test3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T17:50:09.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
